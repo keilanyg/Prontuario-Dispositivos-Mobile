@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "new-projeto-nav",
+    "slug": "new-projeto-nav",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
